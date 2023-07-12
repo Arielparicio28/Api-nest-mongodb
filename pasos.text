@@ -1,0 +1,8 @@
+-Creando el entorno de desarrollo
+-Instalando Swagger para documentar la api usando el framework de Nest [npm install --save @nestjs/swagger]
+-npm run install para instalar las dependencias
+-npm run start para correr el servidor
+-http://localhost:3000/api/v1  puerto de escucha de la api
+-Instalando las dependencias para usar Mongodb npm i @nestjs/mongoose mongoose
+-En el appModule adicionar el import de MongooseModule 
+-http://localhost:3000/api/ puerto de escucha de Swagger para la documentacion de la API.
